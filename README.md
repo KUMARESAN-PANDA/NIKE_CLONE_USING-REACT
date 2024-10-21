@@ -1,7 +1,7 @@
 
 
 ```markdown
-# NIKE_CLONE_USING_REACT
+# NIKE_CLONE_USING-REACT
 
 A web application that replicates the design and functionality of the official Nike website, built using React and styled with Tailwind CSS. This project aims to provide an immersive and responsive shopping experience.
 
@@ -30,12 +30,12 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KUMARESAN-PANDA/NIKE_CLONE_USING_REACT.git
+   git clone https://github.com/KUMARESAN-PANDA/NIKE_CLONE_USING-REACT.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd NIKE_CLONE_USING_REACT
+   cd NIKE_CLONE_USING-REACT
    ```
 
 3. Install dependencies:
