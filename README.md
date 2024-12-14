@@ -1,7 +1,7 @@
 
-
-```markdown
 # NIKE_CLONE_USING-REACT
+## Live Demo
+Check out the live version of the website: [Food Landing Page Demo](https://nike-clone-using-react-ten.vercel.app/)
 
 A web application that replicates the design and functionality of the official Nike website, built using React and styled with Tailwind CSS. This project aims to provide an immersive and responsive shopping experience.
 
